@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\oliver\source\repos\hoemaii\praktikumii\main.cpp(43): warning C4101: "fX": Unreferenzierte lokale Variable
+c:\users\oliver\source\repos\hoemaii\praktikumii\main.cpp(43): warning C4101: "fStrichX": Unreferenzierte lokale Variable
+  PraktikumII.vcxproj -> C:\Users\Oliver\source\repos\HoeMaII\Debug\PraktikumII.exe
